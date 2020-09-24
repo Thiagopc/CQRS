@@ -1,0 +1,2 @@
+# CQRS
+Projeto para estudo 
